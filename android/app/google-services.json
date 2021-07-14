@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950845286371",
+    "project_id": "sidehustlefoodrecipe",
+    "storage_bucket": "sidehustlefoodrecipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950845286371:android:eb1386e901c3b220b722d6",
+        "android_client_info": {
+          "package_name": "com.example.sidehustlefoodrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950845286371-c20hont4q0bm4ie0flbbijc3qi1rj478.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnWe9pxjmTv72SySXwsaZnZsG4SdBNwXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950845286371-c20hont4q0bm4ie0flbbijc3qi1rj478.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
